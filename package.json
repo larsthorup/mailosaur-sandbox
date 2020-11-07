@@ -1,0 +1,13 @@
+{
+  "name": "mailosaur-sandbox",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Lars Thorup <lars@zealake.com> (https://www.zealake.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "mailosaur": "^7.0.5"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}
